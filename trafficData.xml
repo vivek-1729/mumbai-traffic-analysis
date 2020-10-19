@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <flowSegmentData version="traffic-service 3.2.054">
   <frc>FRC4</frc>
-  <currentSpeed>24</currentSpeed>
-  <freeFlowSpeed>24</freeFlowSpeed>
-  <currentTravelTime>95</currentTravelTime>
-  <freeFlowTravelTime>95</freeFlowTravelTime>
-  <confidence>1.000000</confidence>
+  <currentSpeed>16</currentSpeed>
+  <freeFlowSpeed>23</freeFlowSpeed>
+  <currentTravelTime>143</currentTravelTime>
+  <freeFlowTravelTime>99</freeFlowTravelTime>
+  <confidence>0.990000</confidence>
   <roadClosure>false</roadClosure>
   <coordinates>
     <coordinate>
